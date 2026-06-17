@@ -43,9 +43,9 @@ Welcome to my GitHub profile! I am an engineer passionate about bridging the gap
 ---
 
 ### 📫 Let's Connect!
-<a href="mailto:your.email@example.com">
+<a href="mailto:hasan.mohammed.0@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin-profile">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hasan-mohammad-a55995400?utm_source=share_via&ut">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
