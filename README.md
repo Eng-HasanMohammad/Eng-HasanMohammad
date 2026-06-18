@@ -1,221 +1,218 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        DYNAMIC HEADER                          -->
+<!--                         HEADER / IDENTITY                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-# Hasan Mohammad
-
-### Automatic Control & Computer Engineer
-#### AI · Machine Learning · Embedded Systems · Green Industrial Tech
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hasan%20Mohammad&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Automatic%20Control%20%26%20Computer%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-*Bridging the precision of hardware control systems with the intelligence of modern machine learning —*
-*engineering solutions that operate at the intersection of the physical and the computational.*
+### ⚙️ Engineering the Bridge Between **Control Theory** and **Artificial Intelligence**
+**Where deterministic systems meet learned intelligence — precision hardware, predictive software.**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasan%20Mohammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-hasan%40example.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@HasanMohammad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-hasan.y.mohammad.0%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hasan.y.mohammad.0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasan%20Mohammad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-mohammad-a55995400)
+[![GitHub](https://img.shields.io/badge/GitHub-Eng--HasanMohammad-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Eng-HasanMohammad)
 
-</div>
+<br/>
+
+<br/>
 
 ---
 
+
+</div>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ABOUT / POSITIONING                         -->
+<!--                          WHOAMI BLOCK                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `whoami`
+## 🧬 `whoami`
 
 ```python
-engineer = {
-    "name"       : "Hasan Mohammad",
-    "discipline" : "Automatic Control & Computer Engineering",
-    "focus"      : ["AI/ML Research", "Embedded Control Systems",
-                    "Automated Pipelines", "Green Industrial Tech"],
-    "mindset"    : "Systems thinker. Data-driven. Hardware-aware.",
-    "status"     : "Preparing for advanced research & industry R&D",
-}
+class HasanMohammad:
+    def __init__(self):
+        self.role        = "Automatic Control & Computer Engineer"
+        self.domains      = ["AI", "Machine Learning", "Embedded Systems", "Green Industrial Tech"]
+        self.languages    = ["Python", "C++"]
+        self.philosophy   = "Systems should not just react — they should learn, predict, and adapt."
+        self.currently    = "Bridging control loops with data-driven intelligence"
+
+    def focus(self) -> str:
+        return " ⟶ ".join([
+            "Sense (Embedded Systems)",
+            "Learn (Machine Learning)",
+            "Predict (AI Models)",
+            "Act (Control Automation)"
+        ])
+
+me = HasanMohammad()
+print(me.focus())
+# Sense (Embedded Systems) ⟶ Learn (Machine Learning) ⟶ Predict (AI Models) ⟶ Act (Control Automation)
 ```
 
-I operate at the convergence of **control theory**, **embedded engineering**, and **applied machine learning** — a triad that lets me reason about a problem from silicon to algorithm. My work is driven by a single conviction: the most impactful systems are those where intelligent software meets disciplined hardware design.
-
----
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               FEATURED PROJECT — MINI CASE STUDY               -->
+<!--                         TECH STACK / SKILLS                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## ◈ Featured Project — Graduation Research
+## 🛠️ Technical Skill Architecture
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**Core Programming**
+
+<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-Proficient-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+
+▸ Python — AI Pipelines & Data Synthesis
+▸ C++ — Embedded Systems & Control Automation
+
+</td>
+<td valign="top" width="50%">
+
+**Environment & Automation**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+
+▸ Version control, reproducible environments, and Linux-based workflows
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%" colspan="2">
+
+**Data Science & ML Frameworks**
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+▸ Model design, comparative evaluation, and end-to-end data pipelines
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED RESEARCH / CASE STUDY               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🔬 Featured Research — Graduation Project
 
 <div align="center">
 
-### 🌍 Earthquake Prediction via Artificial Intelligence
-**University Graduation Project · End-to-End AI Research & Comparative Analysis**
+### **Earthquake Prediction via Artificial Intelligence**
+*End-to-End AI Research & Comparative Model Analysis*
 
-[![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square)](.)
-[![Domain](https://img.shields.io/badge/Domain-Geophysical%20AI-8B5CF6?style=flat-square)](.)
-[![Type](https://img.shields.io/badge/Type-Comparative%20Model%20Study-0EA5E9?style=flat-square)](.)
+</div>
+
+**✦ The Problem**
+▸ Traditional seismological models rely on statistical recurrence, struggling to capture the non-linear, multi-variate pre-seismic patterns hidden in complex waveform data.
+
+**✦ The Approach**
+▸ A multi-paradigm comparative study benchmarking three distinct AI frameworks against the same seismic dataset to determine which learning paradigm best surfaces pre-seismic signal.
+
+<br/>
+
+<div align="center">
+
+| Model | Paradigm | Applied To |
+|:---:|:---:|:---|
+| 🧠 **LSTM** | Deep Sequential Learning | Decoding temporal time-series dependencies within seismic waveforms |
+| 🌲 **Random Forest** | Ensemble Learning | Robustness against high-variance, noisy geological feature sets |
+| 🖼️ **CNN** | Spatial Feature Extraction | Pattern recognition in seismic spectrograms & waveform images |
 
 </div>
 
 <br/>
 
-> *"Can machine learning detect the seismic signatures that precede a destructive earthquake — before it strikes?"*
-> This research project set out to answer that question with rigor, not rhetoric.
+**✦ Evaluation Metrics**
+▸ `Accuracy` · `Precision` · `Recall` · `F1-Score` — applied rigorously and consistently across all three models for a fair comparative benchmark.
+
+**✦ Impact**
+▸ Demonstrated that data-driven machine learning models can extract underlying seismic precursors, meaningfully complementing — rather than replacing — classic empirical seismological methods.
 
 <br/>
 
-**▸ The Problem**
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       FUTURE HORIZON / VISION                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-Earthquake prediction remains one of geoscience's hardest open problems. Traditional seismological models rely on statistical recurrence and struggle to capture the non-linear, multi-variate patterns embedded in seismic waveform data. The cost of a missed prediction is measured in lives. Precision is non-negotiable.
+## 🚀 Future Horizon
 
-**▸ The Approach — Three AI Models Evaluated**
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-Rather than committing to a single model, this research executed a **full comparative study** across three distinct AI paradigms to determine which best captures the temporal and spatial complexity of seismic data:
+**🔧 Predictive Maintenance**
+ML-driven fault prediction for industrial machinery before failure occurs
 
-| Model | Paradigm | Key Strength Applied |
-|---|---|---|
-| **Model A** *(e.g. LSTM / RNN)* | Deep Sequential Learning | Captures time-series dependencies in waveform data |
-| **Model B** *(e.g. Random Forest / XGBoost)* | Ensemble Learning | Robust to noisy geological feature sets |
-| **Model C** *(e.g. CNN / Hybrid)* | Spatial Feature Extraction | Pattern recognition in spectrograms & waveform images |
+</td>
+<td align="center" width="33%">
 
-> *(Replace the model names above with your actual implemented models — the table structure is ready.)*
+**⚡ AI-Optimized Energy Control**
+Intelligent control systems for adaptive, efficient energy management
 
-**▸ The Impact**
+</td>
+<td align="center" width="33%">
 
-- ✦ Implemented, trained, and evaluated all three models on a structured seismic dataset
-- ✦ Designed a systematic evaluation framework using accuracy, precision, recall, and F1-score
-- ✦ Generated actionable insight on which AI paradigm best fits real-world seismic prediction scenarios
-- ✦ Demonstrated that data-driven AI approaches can meaningfully complement traditional seismological methods
+**🌱 Embedded AI at the Edge**
+On-device intelligence for sustainable, low-power green industrial tech
+
+</td>
+</tr>
+</table>
 
 <br/>
 
----
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     TECHNICAL TOOLKIT                          -->
+<!--                         GITHUB METRICS                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## ◈ Technical Toolkit
-
-### Core Programming & Embedded Systems
-
-| Skill | Proficiency | Context |
-|---|---|---|
-| **Python** | ████████████ Advanced | AI pipelines, data processing, automation |
-| **C++** | ████████░░░ Proficient | Embedded systems, control algorithms, performance-critical code |
-
-<br/>
-
-### Data Science & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-| Library / Framework | Role in Practice |
-|---|---|
-| **TensorFlow / Keras** | Deep learning model architecture, training, and deployment |
-| **Scikit-Learn** | Classical ML models, cross-validation, preprocessing pipelines |
-| **Pandas** | Structured data manipulation, feature engineering, EDA |
-| **NumPy** | Numerical computation, matrix operations, signal processing |
-
-<br/>
-
-### Tools & Automation Environment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      FUTURE HORIZON                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## ◈ Future Horizon — Where I'm Heading
-
-```
-AI  ×  Industrial Control  ×  Sustainability
-─────────────────────────────────────────────
-The next frontier.
-```
-
-The global industrial sector faces a dual mandate: **maximize operational efficiency** while **radically reducing its environmental footprint**. I believe this is precisely where AI and control engineering must converge.
-
-My current research direction explores:
-
-- **Predictive Maintenance with ML** — replacing reactive failure response with intelligent, sensor-driven forecasting in industrial machinery
-- **AI-Optimized Energy Control** — applying reinforcement learning and optimal control theory to minimize energy consumption in automated systems
-- **Green Pipeline Automation** — designing intelligent data pipelines that support sustainability metrics alongside operational KPIs
-- **Embedded AI at the Edge** — bringing low-latency inference to microcontrollers and PLCs, closer to the physical process
-
-> The goal is not to replace engineers with algorithms — it is to give engineers algorithms powerful enough to solve problems that were previously unsolvable.
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB METRICS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## ◈ GitHub Metrics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Eng-HasanMohammad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-HasanMohammad&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-HasanMohammad&theme=tokyonight&hide_border=true" width="65%"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONNECT / CONTACT                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## ◈ Let's Connect
-
-<div align="center">
-
-I'm open to research collaborations, academic discussions, and engineering opportunities
-at the boundary of AI, control systems, and sustainable technology.
-
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-&nbsp;
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-&nbsp;
-[![GitHub Follow](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         CONNECT / FOOTER                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 <br/>
 
 ---
 
-<sub>
-<i>
-"The engineer's first problem in any design situation is to discover what the problem really is." — Unknown
-</i>
-</sub>
+
+## 🤝 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-hasan.y.mohammad.0%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hasan.y.mohammad.0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-mohammad-a55995400)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Eng-HasanMohammad)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6366f1&style=flat-square&label=Profile+Views)
+*"Control systems give us stability. Machine learning gives us foresight. The future belongs to engineers who master both."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
