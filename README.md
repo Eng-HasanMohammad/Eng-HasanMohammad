@@ -4,7 +4,6 @@
 <!--                         HEADER / IDENTITY                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hasan%20Mohammad&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Automatic%20Control%20%26%20Computer%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
